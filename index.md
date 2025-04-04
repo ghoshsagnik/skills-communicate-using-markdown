@@ -1,26 +1,3 @@
 # This is a h1 header
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Added a Header title
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
